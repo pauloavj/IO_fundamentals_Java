@@ -1,4 +1,4 @@
-# Java Io fundamentals
+# Java I/O fundamentals
 
 ## Installation
 Clone the repository in your machine
