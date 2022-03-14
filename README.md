@@ -8,7 +8,7 @@ https://github.com/pauloavj/IO_fundamentals_Java.git
 
 ## Running the script
 
-###run the application  
+ 
 1. You will see the names attached to the artists text file  
 if the file exists.  
 
